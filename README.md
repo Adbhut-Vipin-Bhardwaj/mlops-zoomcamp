@@ -1,0 +1,1 @@
+For work as I go throught the DataTalks.Club [MLOps zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp).
