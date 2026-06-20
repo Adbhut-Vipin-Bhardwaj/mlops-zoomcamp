@@ -19,3 +19,11 @@ Hence, version 3.13.0
 - Train data (X, y) pickle file
 - Validation data (X, y) pickle file
 - Test data (X, y) pickle file
+
+### Question 3
+
+min_samples_split is 2
+
+### Question 4
+
+`--default-artifact-root` is used to set a default artifact storage path.
