@@ -27,3 +27,11 @@ min_samples_split is 2
 ### Question 4
 
 `--default-artifact-root` is used to set a default artifact storage path.
+
+### Question 5
+
+Min RMSE is 5.335
+
+### Question 6
+
+Min Test RMSE is 5.567
